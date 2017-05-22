@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>{{config('app.name','Calificamee')}}</title>
 
-
+<link href="https://fonts.googleapis.com/css?family=Kaushan+Script|Questrial" rel="stylesheet">
 
   <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/angular_material/1.1.0/angular-material.min.css">
 
